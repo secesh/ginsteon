@@ -14,7 +14,7 @@ communication with a PLM.
 Install this package:
 ---------------------
 
-    go get githum.com/tarm/goserial
+    go get github.com/tarm/goserial
     go get github.com/secesh/ginsteon
 
 Example:
